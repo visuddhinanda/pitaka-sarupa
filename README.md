@@ -5,12 +5,12 @@
 
 该书已经被缅甸的一个团队PnDaza电子化，做成了APP。可供免费下载。
 
-![app](assets\images\app.png)
+![app](/assets/images/app.png)
 
-![app](assets\images\app2.png)
+![app](/assets/images/app2.png)
 
 大部分条目都分为 主题、内容和出处三个部分。
-![app](assets\images\app3.png)
+![app](/assets/images/app3.png)
 
 值得一提的是。出处写明了巴利文资料的书名和页码。资料涉及经藏，律藏的根本和义注。
 
